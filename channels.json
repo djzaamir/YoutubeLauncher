@@ -1,0 +1,24 @@
+{
+	"channels" : [
+	   {
+		"name" : "Linus tech tips",
+		"url" : "https://www.youtube.com/c/LinusTechTips/videos",
+		"groups" : "tech technology"
+	   },
+	   {
+		"name" : "Marques Brownlee MKBHD",
+		"url" : "https://www.youtube.com/c/mkbhd/videos",
+		"groups" : "tech technology"
+	   },
+	   {
+		"name" : "Tim dodd The Everyday Astronaut",
+		"url" : "https://www.youtube.com/c/EverydayAstronaut/videos",
+		"groups" : "space rockets"
+	   },
+	   {
+		"name" : "SpaceX",
+		"url" : "https://www.youtube.com/c/SpaceX/videos",
+		"groups" : "space rockets"
+	   }
+	]
+ }
